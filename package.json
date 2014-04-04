@@ -1,0 +1,8 @@
+{
+  "name": "facet",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-contrib-copy": "~0.5.0"
+  }
+}
